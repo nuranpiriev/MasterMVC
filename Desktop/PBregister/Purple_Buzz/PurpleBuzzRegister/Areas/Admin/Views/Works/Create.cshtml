@@ -1,0 +1,23 @@
+﻿@model FrontToBack.Models.Work;
+@using FrontToBack.Models
+
+<div class="container-fluid">
+    <form method="post">
+        <div class="mb-3">
+            <label asp-for="Title" class="form-label">Work Title</label>
+            <input type="text" class="form-control" asp-for="Title">
+        </div>
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label">Work Description</label>
+            <input type="text" class="form-control" asp-for="Description">
+        </div>
+        <div class="mb-3">
+            <label asp-for="ImageURL" class="form-label">Work ImageURL</label>
+            <input type="text" class="form-control" asp-for="ImageURL">
+        </div>
+        <select class="form-select" aria-label="Default select example" asp-for="ServicesId" asp-items="new SelectList(ViewBag.Services, nameof(Services.Id), nameof(Services.Title))">
+             <option selected>Services</option>
+        </select>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
