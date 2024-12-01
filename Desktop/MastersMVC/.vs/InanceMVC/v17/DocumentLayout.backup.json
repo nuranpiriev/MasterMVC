@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MyLPT\\Desktop\\MastersMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCE5AB3-C128-4562-9468-655C23E24D0A}|InanceMVC\\InanceMVC.csproj|c:\\users\\mylpt\\desktop\\mastersmvc\\inancemvc\\areas\\admin\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCE5AB3-C128-4562-9468-655C23E24D0A}|InanceMVC\\InanceMVC.csproj|solutionrelative:inancemvc\\areas\\admin\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCE5AB3-C128-4562-9468-655C23E24D0A}|InanceMVC\\InanceMVC.csproj|c:\\users\\mylpt\\desktop\\mastersmvc\\inancemvc\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCE5AB3-C128-4562-9468-655C23E24D0A}|InanceMVC\\InanceMVC.csproj|solutionrelative:inancemvc\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCE5AB3-C128-4562-9468-655C23E24D0A}|InanceMVC\\InanceMVC.csproj|c:\\users\\mylpt\\desktop\\mastersmvc\\inancemvc\\areas\\admin\\controllers\\masterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCE5AB3-C128-4562-9468-655C23E24D0A}|InanceMVC\\InanceMVC.csproj|solutionrelative:inancemvc\\areas\\admin\\controllers\\masterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCE5AB3-C128-4562-9468-655C23E24D0A}|InanceMVC\\InanceMVC.csproj|c:\\users\\mylpt\\desktop\\mastersmvc\\inancemvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CCE5AB3-C128-4562-9468-655C23E24D0A}|InanceMVC\\InanceMVC.csproj|solutionrelative:inancemvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCE5AB3-C128-4562-9468-655C23E24D0A}|InanceMVC\\InanceMVC.csproj|c:\\users\\mylpt\\desktop\\mastersmvc\\inancemvc\\dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCE5AB3-C128-4562-9468-655C23E24D0A}|InanceMVC\\InanceMVC.csproj|solutionrelative:inancemvc\\dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCE5AB3-C128-4562-9468-655C23E24D0A}|InanceMVC\\InanceMVC.csproj|c:\\users\\mylpt\\desktop\\mastersmvc\\inancemvc\\inancemvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4CCE5AB3-C128-4562-9468-655C23E24D0A}|InanceMVC\\InanceMVC.csproj|solutionrelative:inancemvc\\inancemvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCE5AB3-C128-4562-9468-655C23E24D0A}|InanceMVC\\InanceMVC.csproj|c:\\users\\mylpt\\desktop\\mastersmvc\\inancemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCE5AB3-C128-4562-9468-655C23E24D0A}|InanceMVC\\InanceMVC.csproj|solutionrelative:inancemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\MastersMVC\\InanceMVC\\Areas\\Admin\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "InanceMVC\\Areas\\Admin\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\MastersMVC\\InanceMVC\\Areas\\Admin\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "InanceMVC\\Areas\\Admin\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:30:25.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MastersController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\MastersMVC\\InanceMVC\\Areas\\Admin\\Controllers\\MastersController.cs",
+              "RelativeDocumentMoniker": "InanceMVC\\Areas\\Admin\\Controllers\\MastersController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\MastersMVC\\InanceMVC\\Areas\\Admin\\Controllers\\MastersController.cs",
+              "RelativeToolTip": "InanceMVC\\Areas\\Admin\\Controllers\\MastersController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAYwGwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:29:32.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\MastersMVC\\InanceMVC\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "InanceMVC\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\MastersMVC\\InanceMVC\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "InanceMVC\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwGIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:28:29.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\MastersMVC\\InanceMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "InanceMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\MastersMVC\\InanceMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "InanceMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T23:27:37.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\MastersMVC\\InanceMVC\\DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "InanceMVC\\DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\MastersMVC\\InanceMVC\\DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "InanceMVC\\DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:26:28.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InanceMVC",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\MastersMVC\\InanceMVC\\InanceMVC.csproj",
+              "RelativeDocumentMoniker": "InanceMVC\\InanceMVC.csproj",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\MastersMVC\\InanceMVC\\InanceMVC.csproj",
+              "RelativeToolTip": "InanceMVC\\InanceMVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T23:26:16.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\MastersMVC\\InanceMVC\\Program.cs",
+              "RelativeDocumentMoniker": "InanceMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\MastersMVC\\InanceMVC\\Program.cs",
+              "RelativeToolTip": "InanceMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:25:34.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
