@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MyLPT\\Desktop\\MediPlusMVC\\MediPlusMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61B3C840-4198-4E56-8248-BFF1FE185514}|MediPlusMVC\\MediPlusMVC.csproj|c:\\users\\mylpt\\desktop\\mediplusmvc\\mediplusmvc\\mediplusmvc\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B3C840-4198-4E56-8248-BFF1FE185514}|MediPlusMVC\\MediPlusMVC.csproj|solutionrelative:mediplusmvc\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B3C840-4198-4E56-8248-BFF1FE185514}|MediPlusMVC\\MediPlusMVC.csproj|c:\\users\\mylpt\\desktop\\mediplusmvc\\mediplusmvc\\mediplusmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B3C840-4198-4E56-8248-BFF1FE185514}|MediPlusMVC\\MediPlusMVC.csproj|solutionrelative:mediplusmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B3C840-4198-4E56-8248-BFF1FE185514}|MediPlusMVC\\MediPlusMVC.csproj|c:\\users\\mylpt\\desktop\\mediplusmvc\\mediplusmvc\\mediplusmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61B3C840-4198-4E56-8248-BFF1FE185514}|MediPlusMVC\\MediPlusMVC.csproj|solutionrelative:mediplusmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\MediPlusMVC\\MediPlusMVC\\MediPlusMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MediPlusMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\MediPlusMVC\\MediPlusMVC\\MediPlusMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MediPlusMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:10:37.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\MediPlusMVC\\MediPlusMVC\\MediPlusMVC\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "MediPlusMVC\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\MediPlusMVC\\MediPlusMVC\\MediPlusMVC\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "MediPlusMVC\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:09:23.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\MediPlusMVC\\MediPlusMVC\\MediPlusMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "MediPlusMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\MediPlusMVC\\MediPlusMVC\\MediPlusMVC\\appsettings.json",
+              "RelativeToolTip": "MediPlusMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T23:09:09.29Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
